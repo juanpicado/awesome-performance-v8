@@ -1,0 +1,27 @@
+{
+  "name": "awesome-v8-performance",
+  "version": "1.0.0",
+  "description": "In progress ....",
+  "main": "index.js",
+  "scripts": {
+    "build": "node build.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/juanpicado/awesome-performance-v8.git"
+  },
+  "author": "Juan Picado <me@jotadeveloper.com> (http://jotadeveloper.com/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/juanpicado/awesome-performance-v8/issues"
+  },
+  "homepage": "https://github.com/juanpicado/awesome-performance-v8#readme",
+  "dependencies": {
+    "handlebars": "^4.0.5",
+    "jotadeveloper.backend.com": "^1.0.2",
+    "metalsmith": "^2.1.0",
+    "metalsmith-layouts": "^1.4.1",
+    "metalsmith-markdown": "^0.2.1",
+    "metalsmith-permalinks": "^0.5.0"
+  }
+}
